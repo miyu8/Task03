@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1576A698-9321-4251-86A6-4D54232041B7}</ProjectGuid>
+    <ProjectGuid>{B07E3062-16B0-44BD-99EB-505CB7DE992A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Регулярные_выражения</RootNamespace>
-    <AssemblyName>Регулярные выражения</AssemblyName>
+    <RootNamespace>Металл</RootNamespace>
+    <AssemblyName>Металл</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
